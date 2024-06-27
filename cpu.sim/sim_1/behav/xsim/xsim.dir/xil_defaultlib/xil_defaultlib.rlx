@@ -1,0 +1,18 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+D:/SEU/cpu_f/cpu/cpu.gen/sources_1/ip/CM/sim/CM.v,1716195633,verilog,,D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/ACC.v,,CM,,,,,,,,
+D:/SEU/cpu_f/cpu/cpu.gen/sources_1/ip/memory/sim/memory.v,1716960177,verilog,,D:/SEU/cpu_f/cpu/cpu.gen/sources_1/ip/CM/sim/CM.v,,memory,,,,,,,,
+D:/SEU/cpu_f/cpu/cpu.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/ACC.v,1715852610,verilog,,D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/ALU.v,,ACC,,,,,,,,
+D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/ALU.v,1716197108,verilog,,D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/BR.v,,ALU,,,,,,,,
+D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/BR.v,1715877110,verilog,,D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/CU.v,,BR,,,,,,,,
+D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/CPU.v,1716081960,verilog,,,,CPU,,,,,,,,
+D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/CU.v,1716954226,verilog,,D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/IR.v,,CU,,,,,,,,
+D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/IR.v,1715870618,verilog,,D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/MAR.v,,IR,,,,,,,,
+D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/MAR.v,1715876958,verilog,,D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/MBR.v,,MAR,,,,,,,,
+D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/MBR.v,1715876874,verilog,,D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/PC.v,,MBR,,,,,,,,
+D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/PC.v,1715877064,verilog,,D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/display.v,,PC,,,,,,,,
+D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/display.v,1716039046,verilog,,D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/top.v,,display,,,,,,,,
+D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/top.v,1716193544,verilog,,D:/SEU/cpu_f/cpu/cpu.srcs/sources_1/new/CPU.v,,top,,,,,,,,
